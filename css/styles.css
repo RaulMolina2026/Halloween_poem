@@ -1,0 +1,40 @@
+.container {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.7);
+}
+h1 {
+    font-size: 42px;
+    font-family: Georgia, serif;
+    font-weight: bold;
+    padding: 20px 10px 0 10px;
+    color: #e68a00;
+}
+p {
+    line-height: 100%;
+    padding: 0 10px 0 10px;
+    font-size: 26px
+}
+h4 {
+    font-size: 16px;
+    color: #e68a00;
+}
+h3 {
+    font-size: 16px;
+    font-weight: normal;
+}
+
+
+
+.p-2 {
+    line-height: 100%;
+    padding: 0 10px;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
